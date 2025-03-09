@@ -227,7 +227,7 @@ section {
     position: fixed;
 }
 .B {
-    background-image: url("../image/TEA.jpg");
+    background: url("../image/TEA.jpg");
     background-attachment: fixed;
     margin-top: -200px;
 }
