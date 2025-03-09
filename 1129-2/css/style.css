@@ -227,9 +227,11 @@ section {
     position: fixed;
 }
 .B {
-    background: url("../image/TEA.jpg");
+    background-image: url("../image/TEA.jpg");
     background-attachment: fixed;
-    margin-top: -200px;
+    background-position:center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
